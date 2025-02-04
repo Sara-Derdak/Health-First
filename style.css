@@ -163,12 +163,11 @@ button:hover
 
 .hero .image img {
     max-width: 95%;
+    margin-top: 115px;
+    margin-left:55px;
     border-radius: 10px;
-    margin-top: 100px;
-    margin-left:50px;
     
 }
-/* From Uiverse.io by reshades */ 
 .button {
     margin-top: 10px;
     background-color: #ffffff00;
