@@ -162,8 +162,11 @@ button:hover
 }
 
 .hero .image img {
-    max-width: 100%;
+    max-width: 95%;
     border-radius: 10px;
+    margin-top: 100px;
+    margin-left:50px;
+    
 }
 /* From Uiverse.io by reshades */ 
 .button {
@@ -522,7 +525,10 @@ button:hover
         max-width: 100%;
         text-align: center;
     }
-
+    .hero .image img 
+    {
+        margin-left: 10px;
+    }
     .service-cards {
         flex-direction: column;
     }
