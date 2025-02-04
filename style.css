@@ -25,7 +25,9 @@ body {
     z-index: 1000;
     margin-bottom: 100px;
 }
-
+.menu-toggle{
+    display: none;
+}
 .header .logo {
     font-size: 1.8rem;
     font-weight: bold;
